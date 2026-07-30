@@ -1,0 +1,117 @@
+# ===========================
+# Build results
+# ===========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# ===========================
+# Visual Studio
+# ===========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===========================
+# Visual Studio Code
+# ===========================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ===========================
+# Rider
+# ===========================
+.idea/
+
+# ===========================
+# JetBrains Rider
+# ===========================
+*.sln.iml
+
+# ===========================
+# NuGet
+# ===========================
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# ===========================
+# Publish
+# ===========================
+publish/
+PublishOutput/
+
+# ===========================
+# Test Results
+# ===========================
+TestResults/
+*.trx
+coverage/
+coverage-report/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# ASP.NET Core
+# ===========================
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+
+# Secrets
+secrets.json
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.*
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# Resharper
+# ===========================
+_ReSharper*/
+*.DotSettings.user
+
+# ===========================
+# Entity Framework
+# ===========================
+*.mdf
+*.ldf
+
+# ===========================
+# Azure
+# ===========================
+.publishsettings
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# ===========================
+# Generated Files
+# ===========================
+Generated/

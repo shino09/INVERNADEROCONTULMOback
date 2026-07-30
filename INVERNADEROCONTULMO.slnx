@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="INVERNADEROCONTULMO.Api/INVERNADEROCONTULMO.Api.csproj" />
+  <Project Path="INVERNADEROCONTULMO.Tests/INVERNADEROCONTULMO.Tests.csproj" />
+</Solution>
